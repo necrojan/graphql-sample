@@ -33,6 +33,11 @@ http://graphql-sample.test/graphiql or http://127.0.0.1:8000/graphiql
             email
         }
     }
+    
+    # Add to Headers
+    {
+      "Authorization": "Bearer 5|c7J8GLg2gkD4KXsK7Mku1GaFIpnImt3fOSACqRGr901ceec5"
+    }
 ```
 
 Copyright © 2023 <a href="https://github.com/necrojan">@necrojan</a> MIT license.
